@@ -1,0 +1,3 @@
+expected_result/csv/city_list.csv
+.pytest_cache
+.idea
